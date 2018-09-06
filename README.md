@@ -1,3 +1,6 @@
-# Mapping Town Branch
+# Geo 409
 
-A journey through GIS analysis and a city's shared-use path
+University of Kentucky
+
+https://github.com/UKy-GIS
+https://uky-gis.github.io
