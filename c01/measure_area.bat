@@ -1,0 +1,2 @@
+ogr2ogr -f CSV output.csv -sql "select name, (st_area(geom,true)/1000000) as sq_km from ne_10m_admin_1_states_provinces_lakes where name in ('Texas','Alaska','Kentucky')" PG:"dbname=boyd host=10.0.1.152 port=54327"
+more output.csv
